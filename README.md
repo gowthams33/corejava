@@ -38,7 +38,7 @@ CoreJava Tamil Video Tutorial Samples
  36) Exception one
  37) Exception two
  38) Java reflection
- 39) Threads Introduces
+ 39) Threads Introduction
  4)  Thread Runnable  and Lifecycle
  41) Memory model and volatile
  42) Synchronized Keywords
