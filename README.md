@@ -1,7 +1,7 @@
 # corejava
 CoreJava Tamil Video Tutorial Samples
- 1)  Java Inroduction
- 2)  Java Comiler Basic
+ 1)  Java Introduction
+ 2)  Java Compiler Basic
  3)  Helloworld Path
  4)  Java Classpath
  5)  Primitive Types
@@ -42,7 +42,7 @@ CoreJava Tamil Video Tutorial Samples
  4)  Thread Runnable  and Lifecycle
  41) Memory model and volatile
  42) Synchronized Keywords
- 43) Method Lock and individual odject lock
+ 43) Method Lock and individual object lock
  44) Executorservices java.util concurrent
  45) CountDownLatch
  46) Producer consumer - BlockingQueue and wait,notify
@@ -70,5 +70,5 @@ CoreJava Tamil Video Tutorial Samples
  68) Mysql and JDBC core interface part-2
  69) Select statement execution and resultset
  70) Prepared statement and callable statement 
- 71) JDBC Batching , Transaction management , metadata 
+ 71) JDBC Batching , Transaction management , metadata
 
